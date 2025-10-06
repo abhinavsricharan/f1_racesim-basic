@@ -4,6 +4,7 @@ This project is a standalone Formula 1 race simulator built with Python and Open
 It's a fun demonstration of how to use Python for real-time graphical simulations and data visualization.
 
 ✨ Features
+
 ✅ Real-time vehicle tracking on an elliptical track.
 
 ✅ A live timing tower showing driver positions and gaps to the leader.
