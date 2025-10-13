@@ -28,7 +28,5 @@ It's a fun demonstration of how to use Python for real-time graphical simulation
 To run this simulation, you'll need the following:
 
 Python 3.x
-
 OpenCV (opencv-python)
-
 NumPy
