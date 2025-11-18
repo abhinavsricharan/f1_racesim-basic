@@ -1,4 +1,4 @@
-# f1_racesim-basic
+# f1_racesim_basic
 This project is a standalone Formula 1 race simulator built with Python and OpenCV. It creates a dynamic, real-time visualization of a simplified F1 race, complete with a live timing tower, telemetry data, overtake detection, and an F1-style graphical HUD.
 
 It's a fun demonstration of how to use Python for real-time graphical simulations and data visualization.
